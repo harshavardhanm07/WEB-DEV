@@ -5,26 +5,30 @@ img{
 
 #red{
     color:red;
-    font-weight:"normal";
+   
 
 }
 
 #blue{
     color:blue;
-    font-weight:"normal";
+    
 }
 
 #orange{
     color:orange;
-    font-weight:"normal";
+  
 }
 
 #green{
     color:green;
-    font-weight:"normal";
+  
 }
 
 #yellow{
     color:yellow;
+    
+}
+
+.color-title{
     font-weight:"normal";
 }
